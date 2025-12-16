@@ -20,8 +20,8 @@ data/
 *.csv
 *.zip
 
-# Trained model (optional: push only if <100MB)
-model/*.pth
+# # Trained model (optional: push only if <100MB)
+# model/*.pth
 
 # Mac / Windows
 .DS_Store
