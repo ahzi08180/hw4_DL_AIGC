@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Dataset
+data/
+*.csv
+*.zip
+
+# Trained model (optional: push only if <100MB)
+model/*.pth
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
