@@ -121,12 +121,3 @@ streamlit run app.py
 ## License
 
 This project is for **educational and research purposes**.
-
-```
-
----
-
-如果你想，我可以幫你再加一段 **Streamlit 部署注意事項**，比如自動下載模型，不用 push 大檔到 GitHub，這樣你直接 deploy 就不會遇到限制。  
-
-你希望我幫你加嗎？
-```
