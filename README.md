@@ -1,4 +1,3 @@
-````markdown
 # Bird Species Classification (Deep Learning)
 
 This project implements a **deep learning model** (EfficientNet-B0) for **bird species classification**. Users can upload an image of a bird and the model will predict its species. The project includes both a **training pipeline** and a **Streamlit Web App** for deployment.
@@ -36,7 +35,7 @@ bird_classifier/
 ├── .gitignore              # Git ignore rules
 ├── model/                  # Trained model (bird_model.pth)
 └── data/                   # Dataset folder (not included)
-````
+```
 
 ---
 
